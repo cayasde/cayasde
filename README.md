@@ -1,1 +1,1 @@
-<img src="https://media.tenor.com/9vRAkntogEMAAAAC/miku-hatsune.gif" width="500">
+<img src="./azumanga-azumanga-daioh.svg" width="500">
